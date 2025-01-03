@@ -1,3 +1,5 @@
+if game.PlaceId == 12196278347 then
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
 local Window = Library.CreateLib("Refinery Caves 2💀", "RJTheme6")
 local Tab = Window:NewTab("Information") 
