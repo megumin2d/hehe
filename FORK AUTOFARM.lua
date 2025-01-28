@@ -88,7 +88,7 @@ local window = darius:Window({
     Description = "Script version - 0.2beta  alfa  gamma",
 
     -- Optional
-    HideBind = Enum.KeyCode.T,
+    HideBind = Enum.KeyCode.RightControl,
     Parent = target, -- Defaults to game.CoreGui
     UseConfig = false,
     Config = "config",
